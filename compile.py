@@ -61,6 +61,8 @@ if __name__ == "__main__":
         user_input = input("Compile and run me? (ENTER)")
         if user_input == "chfile":
             file_to_compile = input("Enter filename\n")
+        elif user_input == "chcom"
+            compiler = input("Enter compiler name")
         elif user_input == "":
             print(
                 "Here we go!",
