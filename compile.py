@@ -130,5 +130,5 @@ if __name__ == "__main__":
             print(
                 "\n________________________________________________________\nAll done!"
             )
-        elif user_input == "0":
+        elif user_input == "q":
             break
